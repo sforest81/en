@@ -9,11 +9,11 @@ date: 2020-07-10 18:09:14
 
 **Yuyun Liu**, Assistant Professor
 
-**Peiqiang Xu**, Postdoctoral Researcher
+[**Peiqiang Xu**](https://px212.github.io/px212/), Postdoctoral Researcher
 
 
 
-**Xiaocen Shen**, Ph.D. student (2016-)
+[**Xiaocen Shen**](https://www.researchgate.net/profile/Xiaocen_Shen), Ph.D. student (2016-)
 
 **Zizhen Dong**, Ph.D. student (2016-)
 
