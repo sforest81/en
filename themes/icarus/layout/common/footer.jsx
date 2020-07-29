@@ -42,6 +42,9 @@ class Footer extends Component {
                                 </p>;
                             })}
                         </div> : null}
+                        <div style="width: 200px">
+                            <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=rxvp2HfpSx4I_gBvOM9M_Jqj6TAOXL-u5LD5xG1GOIk&cl=ffffff&w=a"></script>
+                        </div>
                     </div>
                 </div>
             </div>
