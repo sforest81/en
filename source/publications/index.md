@@ -4,22 +4,39 @@ date: 2020-06-21 18:52:29
 ---
 
 
-**Submitted and in press:**
+**Submitted:**
+
+98\. Shen Xiaocen, **Lin Wang\***, and Scott Osprey, 2020: Tropospheric forcing of the 2019 Antarctic sudden stratospheric warming, *Geophysical Research Letters*, revised
+
+97\. Dong Zizhen, **Lin Wang\***, Peiqiang Xu, Sittichai Pimonsree, Atsamon Limsakul, and Patama Singhruck, 2020: Interdecadal variation of the wintertime precipitation in Southeast Asia and its possible causes, *Journal of Climate*, revised
+
+96\. Dong Zizhen, **Lin Wang\***, Ying Sun, Ting Hu, Atsamon Limsakul, Patama Singhruck, and Sittichai Pimonsree, 2020: Heatwaves in Southeast Asia and their changes in a warmer world, *Earth’s Future*, revised
+
+95\. Xu Peiqiang, **Lin Wang\***, Ping Huang, and Wen Chen, 2020: Disentangling dynamical and thermodynamical contributions to the record-breaking heatwave over central Europe in June 2019, *Geophysical Research Letters*, submitted 
+
+94\. Huangfu Jingliang, Yulian Tang, Tianjiao Ma, Wen Chen, and **Lin Wang\***, 2020: Influence of the QBO on tropical convection and its impact on tropical cyclone genesis over the western North Pacific, *Climate Dynamics*, submitted
+
+93\. Gong Hainan\*, **Lin Wang**, Wen Chen, Renguang Wu, 2020: Evolution of the East Asian winter land temperature trends: Role of internal variability and external forcing, *Environmental Research Letters*, submitted 
+
+92\. Liu Shizuo, Qigang Wu\*, **Lin Wang**, Steven R. Schroeder, Yang Zhang, Yonghong Yao, and Haibo Hu, 2019: Modeled climate responses to realistic extremes of Northern Hemisphere spring and summer snow anomalies, *Journal of Climate*, revised
+
+91\. Liu Qian, Guixing Chen\*, **Lin Wang**, Yuki Kanno, and Toshiki Iwasaki, 2020: Southward cold airmass flux of the East Asian winter monsoon: Diversity and impacts, *Journal of Climate*, revised
+
+**In press:**
+
+90\. Fan Hongdou, **Lin Wang\***, Yang Zhang, Youmin Tang, Wansuo Duan, and Lei Wang, 2020: Predictable patterns of wintertime surface air temperature in Northern Hemisphere and their predictability sources in SEAS5, *Journal of Climate*, doi:10.1175/JCLI-D-20-0542.1, in press
 
 89\. Shen Xiaocen, **Lin Wang\***, and Scott Osprey, 2020: The Southern Hemisphere sudden stratospheric warming of September 2019, *Science Bulletin*, doi:10.1016/j.scib.2020.06.028, in press
 
-88\. Liu Shizuo, Qigang Wu\*, **Lin Wang**, Steven R. Schroeder, Yang Zhang, Yonghong Yao, and Haibo Hu, 2019: Modeled climate responses to realistic extremes of Northern Hemisphere spring and summer snow anomalies, *Journal of Climate*, submitted
+88\. Faikrua A., Sittichai Pimonsree\*, **Lin Wang**, Atsamon Limsakul, Patama Singhruck, and Zizhen Dong, 2019: Decadal increase of the summer precipitation in Thailand after the mid-1990s, *Climate Dynamics*, doi:10.1007/s00382-020-05443-8, in press
 
-87\. Xu Guangzhi\*, Xiaohui Ma, Ping Chang, and **Lin Wang**, 2020: Image-processing based atmospheric river tracking method version 1 (IPART-1), *Geoscientific Model Development*, submitted
+87\. Xu Guangzhi\*, Xiaohui Ma, Ping Chang, and **Lin Wang**, 2020: Image-processing based atmospheric river tracking method version 1 (IPART-1), *Geoscientific Model Development*, doi:10.5194/gmd-2020-135, in press
 
 86\. Zhao Wei, Wen Chen, Shangfeng Chen\*, Debashis Nath, and **Lin Wang**, 2020: Interdecadal change in the impact of North Atlantic SST on August rainfall over the monsoon transitional belt in China around the late-1990s, *Theoretical and Applied Climatology*, doi:10.1007/s00704-020-03102-w, in press
 
 85\. Hu Peng, Wen Chen, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2020: Impact of the September Silk Road pattern on the South China Sea summer monsoon withdrawal, *International Journal of Climatology*, doi:10.1002/joc.6585, in press
 
-
-
 **2020:**
-
 
 84\. Xu Peiqiang, **Lin Wang\***, Wen Chen, Guosen Chen, and In-Sik Kang, 2020: Intraseasonal variations of the British-Baikal Corridor pattern. *Journal of Climate*, **33**(6), 2183-2200, doi:10.1175/JCLI-D-19-0458.1.
 
