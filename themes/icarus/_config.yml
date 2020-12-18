@@ -204,10 +204,10 @@ widgets:
                 url: 'https://www.researchgate.net/profile/Lin_Wang61?ev=hdr_xprf'
             Google:
                 icon: fab fa-google
-                url: 'https://publons.com/researcher/1173124/lin-wang/'
+                url: 'http://scholar.google.com/citations?user=5fqOhSkAAAAJ'
             Twitter:
                 icon: fab fa-twitter
-                url: 'https://sforest81.github.io/en'
+                url: 'https://publons.com/researcher/1173124/lin-wang/'
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
