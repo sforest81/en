@@ -78,11 +78,12 @@ navbar:
         # Categories: /categories
         # Tags: /tags
         # About: /about
-        News: /
+        Homepage: /
         Publications: /publications
         Conferences: /conferences
         Group: /group
         Service: /service
+        Data: /data
         Contact: /contact
         中文: https://sforest81.github.io/cn
     # Links to be shown on the right of the navigation bar
@@ -220,11 +221,12 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-            News: '/en'
-            Publications: '/en/publications'
-            Conferences: '/en/conferences'
+            Homepage: '/en'
+            Publications: '/cn/publications'
+            Conferences: '/cn/conferences'
             Group: '/en/group'
             Service: '/en/service'
+            Data: '/cn/data'
             Contact: '/en/contact'
             中文: '/cn'
     # Categories widget configurations
