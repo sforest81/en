@@ -78,7 +78,7 @@ navbar:
         # Categories: /categories
         # Tags: /tags
         # About: /about
-        Homepage: /
+        Home: /
         Publications: /publications
         Conferences: /conferences
         Group: /group
@@ -221,7 +221,7 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-            Homepage: '/en'
+            Home: '/en'
             Publications: '/cn/publications'
             Conferences: '/cn/conferences'
             Group: '/en/group'
