@@ -49,7 +49,7 @@ Ph.D. (2018.09-2021.06, doctoral course), Advisors: Prof. Lin Wang, Thesis title
 M.S. (2018.09-2021.06, master course), Advisors: Prof. Lin Wang & Dr. Lei Wang, Thesis title 'Predictable patterns of wwintertime surface air temperature 
 in the extratropical Northern Hemisphere and their predictability sources'. Immediate position after graduation: PhD student in Max Planck Institute for Meteorology
 
-**Peiqiang Xu**
+[**Peiqiang Xu**](https://px212.github.io/px212/)
 
 Ph.D. (2016.09-2015.06, doctoral course), Advisors: Prof. Lin Wang & Prof. Wen Chen, Thesis title 'Atmospheric teleconnection patterns propagating along the summertime polar front jet over Eurasia'. Immediate position after graduation: Postdoctoral Researcher in IAP, CAS
 
@@ -69,7 +69,7 @@ Ph.D. (2011.09-2016.06, master and doctoral courses), Advisors: Prof. Lin Wang &
 
 MS (2014.09-2016.06, master course), Advisors: Prof. Lin Wang & Prof. Wen Chen, Thesis title 'Interannual and decadal variations of the tropospheric thickness surrounding the South China Sea and their linkages to the East Asian climate'. Immediate position after graduation: PhD student in Georgia Tech
 
-**Hainan Gong**
+[**Hainan Gong**](https://www.researchgate.net/profile/Hainan_Gong)
 
 Ph.D. (2010.09-2015.06, master and doctoral courses), Advisors: Prof. Wen Chen & Prof. Lin Wang, Thesis title 'Impact of ENSO and Arctic Oscillation on the interannual variability of the East Asian winter monsoon in CMIP5 models'. Immediate position after graduation: Postdoctoral Researcher in IAP, CAS
 
@@ -77,6 +77,6 @@ Ph.D. (2010.09-2015.06, master and doctoral courses), Advisors: Prof. Wen Chen &
 
 MS (2012.09-2015.06, master course), Advisors: Prof. Quanliang Chen & Prof. Lin Wang, Thesis title 'Interannual variations of early and late winter temperatures in China and the mechanisms underlying their linkage'. Immediate position after graduation: Assistant Engineering in Chengdu Meteorological Bureau
 
-**Yuyun Liu**
+[**Yuyun Liu**](https://www.researchgate.net/profile/Yuyun_Liu)
 
 Ph.D. (2009.09-2013.06, doctoral course), Advisors: Prof. Wen Chen & Prof. Lin Wang, Thesis title 'Temporal variability and spatial structures of the Eurasian teleconnection patterns and their mechanism'. Immediate position after graduation: Assistant Professor in IAP, CAS
