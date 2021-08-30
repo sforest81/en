@@ -13,20 +13,41 @@ date: 2020-07-10 18:09:14
 
 [**Xiaocen Shen**](https://www.researchgate.net/profile/Xiaocen_Shen), Ph.D. student (2016-)
 
-[**Zizhen Dong**](https://www.researchgate.net/profile/Dong_Zizhen), Ph.D. student (2016-)
-
-[**Chuang Zheng**](https://www.researchgate.net/profile/Chuang_Zheng2), Ph.D. student (2018-)
-
-[**Hongdou Fan**](https://www.researchgate.net/profile/Hongdou_Fan), Master student (2018-)
-
 **Yushu Wu**, Master student (2018-)
 
 **Hongyin Xiao**, Master student (2018-)
 
-**Tian Wan**, Master student (2019-)
+**Tian Wan**, Ph.D. student (2019-)
+
+**Wenling Cui**, Master student (2020-)
+
+**Huanhuan Ran**, Master student (2020-)
+
+**Tianyuehan Zhou**, Ph.D. student (2020-)
+
+**Kangjie Ma**, Master student (2020-)
+
+**Luyao Sun**, Master student (2021-)
+
+**Huiwen Xiao**, Master student (2021-)
+
+**Leiye Yuan**, Master student (2021-)
 
 
 ## Students supervised:
+
+[**Zizhen Dong**](https://www.researchgate.net/profile/Dong_Zizhen)
+
+Ph.D. (2016.09-2021.06, master and doctoral courses), Advisors: Prof. Lin Wang, Thesis title 'The variation of the wintertime quasi-biweekly oscillation over the northwestern Pacific and the associated air-sea interaction processes'. Immediate position after graduation: Postdoctoral Researcher in Department of Atmospheric Sciences, Yunnan University
+
+[**Chuang Zheng**](https://www.researchgate.net/profile/Chuang_Zheng2)
+
+Ph.D. (2018.09-2021.06, doctoral course), Advisors: Prof. Lin Wang, Thesis title 'Variability of extreme cold events in East Asia and the deep-learning-based prediction experiment'. Immediate position after graduation: 
+
+[**Hongdou Fan**](https://www.researchgate.net/profile/Hongdou_Fan)
+
+M.S. (2018.09-2021.06, master course), Advisors: Prof. Lin Wang & Dr. Lei Wang, Thesis title 'Predictable patterns of wwintertime surface air temperature 
+in the extratropical Northern Hemisphere and their predictability sources'. Immediate position after graduation: PhD student in Max Planck Institute for Meteorology
 
 **Peiqiang Xu**
 
