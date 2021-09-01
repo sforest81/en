@@ -3,17 +3,21 @@ title: Lin Wang
 date: 2021-08-31 00:00:00
 ---
 
-I got my Ph.D. in meteorology from the Graduate School of Chinese Academy of Sciences. After that, I joined the Institute of Atmospheric Sciences, Chinese Academy of Sciences (IAP/CAS), where I am currently professor and the secretary of the institute, and made a total of approximately three-year international academic visits to the USA, Japan, Italy, etc. My research interest includes monsooon, atmospheric and climate dynamics, and climate extremes. My primary areas of expertise are the variability, mechanism, and predictability of the Asian monsoon ranging from the intraseasonal to interdecadal timescales. I heavily apply process-based diagnostics on observational, reanalysis, and model data to identify the critical processes that dominate the monsoon and climate variability. I also seek the potential influences of the stratospheric processes on monsoon variability and predictability. Currently, I am working on the scale interactions to understand the monsoon and climate variability, the role of internal climate variability in climate change, and climate exxtremes in boreal wwinter. I have published more than 100 articles in refereed scientific journals. I currently serve as an Associate Editor for the Journal of Climate, an member of the WCRP Lighthouse Activity Science Plan Development Team, and the secretary for the Dynamic Meteorology Commission, Chinese Meteorological Society.
+I got my Ph.D. in meteorology from the Graduate School of Chinese Academy of Sciences. After that, I joined the Institute of Atmospheric Sciences, Chinese Academy of Sciences (IAP/CAS), where I am currently professor and the secretary of the institute, and made a total of approximately three-year international academic visits to the USA, Japan, Italy, etc. My research interest includes monsooon, atmospheric and climate dynamics, and climate extremes. 
+
+My primary areas of expertise are the variability, mechanism, and predictability of the Asian monsoon ranging from the intraseasonal to interdecadal timescales. I heavily apply process-based diagnostics on observational, reanalysis, and model data to identify the critical processes that dominate the monsoon and climate variability. I also seek the potential influences of the stratospheric processes on monsoon variability and predictability. Currently, I am working on the scale interactions to understand the monsoon and climate variability, the role of internal climate variability in climate change, and climate exxtremes in boreal wwinter. 
+
+I have published more than 100 articles in refereed scientific journals. I currently serve as an Associate Editor for the Journal of Climate, an member of the WCRP Lighthouse Activity Science Plan Development Team, and the secretary for the Dynamic Meteorology Commission, Chinese Meteorological Society.
 
 **Research Interests**: 
 - Asian monsoon
 - Climate dynamics
-- Stratosphere-troposphere interaction
 - Climate extremes
+- Stratosphere-troposphere interaction
 
 ## News
 
-- **Positions are open for graduate students and postdocs! Contact Lin Wang for details.**
+- **Positions are open for graduate students and postdocs. Contact Lin Wang for details.**
 - 2021.08: Welcome Luyao Sun, Huiwen Xiao, and Leiye Yuan to join our group.
 - 2021.08: Zizhen Dong got his Ph.D. and joined Department of Atmosphperic Sciences, Yunnan University as a postdoctal researcher.
 - 2021.08: Chuang Zheng got her Ph.D. and joined State Grid Hunan Electric Powwer Company Limited as a faculty.
