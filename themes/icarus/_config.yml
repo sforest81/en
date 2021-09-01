@@ -80,10 +80,10 @@ navbar:
         # About: /about
         Home: /
         News: /news
-        Publications: https://sforest81.github.io/cn/publications
+        Publications: /publications
         Conferences: /conferences
         Group: /group
-        Data: https://sforest81.github.io/cn/data
+        Data: /data
         Service: /service
         Contact: /contact
         中文: https://sforest81.github.io/cn
@@ -224,10 +224,10 @@ widgets:
         links:
             Home: '/en'
             News: '/en/news'
-            Publications: '/cn/publications'
+            Publications: '/en/publications'
             Conferences: '/en/conferences'
             Group: '/en/group'
-            Data: '/cn/data'
+            Data: '/en/data'
             Service: '/en/service'
             Contact: '/en/contact'
             中文: '/cn'
