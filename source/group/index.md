@@ -44,7 +44,7 @@ Ph.D. (2016.09-2021.06, master and doctoral courses), Advisors: Prof. Lin Wang, 
 
 [**Chuang Zheng**](https://www.researchgate.net/profile/Chuang_Zheng2)
 
-Ph.D. (2018.09-2021.06, doctoral course), Advisors: Prof. Lin Wang, Thesis title *'Variability of extreme cold events in East Asia and the deep-learning-based prediction experiment'*. Immediate position after graduation: 
+Ph.D. (2018.09-2021.06, doctoral course), Advisors: Prof. Lin Wang, Thesis title *'Variability of extreme cold events in East Asia and the deep-learning-based prediction experiment'*. Immediate position after graduation: Faculty in State Grid Hunan Electric Powwer Company Limited.
 
 [**Hongdou Fan**](https://www.researchgate.net/profile/Hongdou_Fan)
 
