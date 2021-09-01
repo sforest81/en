@@ -1,3 +1,8 @@
+---
+title: News
+date: 2021-08-31 00:00:00
+---
+
 - 2021.08: Welcome Luyao Sun, Huiwen Xiao, and Leiye Yuan to join our group.
 - 2021.08: Zizhen Dong got his Ph.D. and joined Department of Atmosphperic Sciences, Yunnan University as a postdoctal researcher.
 - 2021.08: Chuang Zheng got her Ph.D. and joined State Grid Hunan Electric Powwer Company Limited as a faculty.
