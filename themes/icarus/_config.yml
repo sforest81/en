@@ -209,7 +209,7 @@ widgets:
                 url: 'http://scholar.google.com/citations?user=5fqOhSkAAAAJ'
             Twitter:
                 icon: fab fa-twitter
-                url: 'https://publons.com/researcher/1173124/lin-wang/'
+                url: 'https://twitter.com/LinWang1981'
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
