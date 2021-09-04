@@ -1,4 +1,7 @@
-## Brief Biography
+---
+title: Brief Biography
+date: 2021-09-01 18:52:29
+---
 
 I got my Ph.D. in meteorology from the Graduate School of Chinese Academy of Sciences. After that, I joined the Institute of Atmospheric Sciences, Chinese Academy of Sciences, where I am currently professor and the secretary of the institute, and made a total of approximately three-year international academic visits to the USA, Japan, Italy, etc. 
 
