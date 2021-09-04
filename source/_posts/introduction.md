@@ -1,7 +1,4 @@
----
-title: Lin Wang
-date: 2021-08-31 00:00:00
----
+## Brief Biography
 
 I got my Ph.D. in meteorology from the Graduate School of Chinese Academy of Sciences. After that, I joined the Institute of Atmospheric Sciences, Chinese Academy of Sciences, where I am currently professor and the secretary of the institute, and made a total of approximately three-year international academic visits to the USA, Japan, Italy, etc. 
 
@@ -9,7 +6,7 @@ My research interest includes monsooon, atmospheric and climate dynamics, and cl
 
 I have published more than 100 articles in refereed scientific journals. I currently serve as an Associate Editor for the Journal of Climate, an member of the WCRP Lighthouse Activity Science Plan Development Team, and the secretary for the Dynamic Meteorology Commission, Chinese Meteorological Society.
 
-**Research Interests**: 
+## Research Interests:
 - Asian monsoon
 - Climate dynamics
 - Climate extremes
