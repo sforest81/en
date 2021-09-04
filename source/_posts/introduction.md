@@ -6,7 +6,7 @@ My research interest includes monsooon, atmospheric and climate dynamics, and cl
 
 I have published more than 100 articles in refereed scientific journals. I currently serve as an Associate Editor for the Journal of Climate, an member of the WCRP Lighthouse Activity Science Plan Development Team, and the secretary for the Dynamic Meteorology Commission, Chinese Meteorological Society.
 
-## Research Interests:
+## Research Interests
 - Asian monsoon
 - Climate dynamics
 - Climate extremes
