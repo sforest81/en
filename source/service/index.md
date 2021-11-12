@@ -19,6 +19,8 @@ Lead Guest Editor, Advances in Meteorology, 2014-2015
 
 ## Community Services:
 
+Member, CLIVAR/GEWEX Asian-Australian Monsoon Working Group, 2021-
+
 Member, WCRP Lighthouse Activity Science Plan Development Team, 2020-
 
 Secretary, Dynamic Meteorology Commission, Chinese Meteorological Society, 2011-
