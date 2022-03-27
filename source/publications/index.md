@@ -3,27 +3,49 @@ title: Publications
 date: 2020-06-21 18:52:29
 ---
 
+
 **Submitted:**
 
-114\. Dong Zizhen, and **Lin Wang***, 2021: Quasi-biweekly oscillation over the western North Pacific in boreal winter and its influence on the North American temperature, *Journal of Climate*, submitted
+123\. Xu Peiqiang, **Lin Wang\***, and Wen Chen, 2022: The British-Okhotsk Corridor pattern and its linkage to the Silk Road pattern, *Journal of Climate*, doi:10.1075/JCLI-D-21-0657.1, revised
 
-113\. Shen Xiaocen, **Lin Wang***, Scott Osprey, Steven C. Hardiman, Adam A. Scaife, and Ji Ma, 2021: The Life Cycle and Variability of Antarctic Sudden Stratospheric Warmings, *Journal of Climate*, submitted
+122\.	Gong Hainan, Hongyin Xiao, Quanliang Chen, and **Lin Wang\***, 2022: Impact of internal climate variability on wintertime surface air temperature trends over Eurasia in the CESM large ensemble, *Journal of Geophysical Research: Atmospheres*, revised
 
-112\.	Gong Hainan, Hongyin Xiao, Quanliang Chen, and **Lin Wang***, 2021: Impact of internal climate variability on wintertime surface air temperature trends over Eurasia in the CESM large ensemble, *Journal of Geophysical Research: Atmospheres*, submitted
+121\. Hu Kaiming\*, Gang Huang\*, **Lin Wang**, and Renguang Wu, 2022: Asymmetric impact of El Niño and La Niña on southern China winter rainfall, *Climate Dynamics*, submitted
 
-111\.	Jiang Wenping*, Hainan Gong, Ping Huang, **Lin Wang**, Gang Huang, and Lisuo Hu, 2021: Biases and improvements of the ENSO- East Asian winter monsoon teleconnection in CMIP5 and CMIP6 models, *Climate Dynamics*, submitted
+120\. Hu Peng, Wen Chen, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2022: On the strengthening relationship between the tropical Asian summer monsoon onset and ENSO after the mid-1970s, *Climate Dynamics*, submitted
 
-110\. Hu Kaiming\*, Gang Huang\*, **Lin Wang**, and Renguang Wu, 2021: Asymmetric impact of El Niño and La Niña on southern China winter rainfall, *Climate Dynamics*, submitted
-
-109\. Hu Peng, Wen Chen, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2021: On the strengthening relationship between the tropical Asian summer monsoon onset and ENSO after the mid-1970s, *Climate Dynamics*, submitted
-
-108\. Zhang Jiankai, Wenshou Tian\*, John A. Pyle, N. Luke Abraham, Martyn P. Chipperfield, James Keeble, Qinghua Yang, Longjiang Mu, Hong-Li Ren, and **Lin Wang**, 2021: Significant Responses of Arctic Sea Ice to Stratospheric Ozone Depletion, submitted
 
 **In press:**
 
-107\. **Wang Lin\***, Chuang Zheng, and Yuyun Liu, 2021: Understanding the East Asian winter monsoon in 2018 from the intraseasonal perspective, *Climate Dynamics*, doi:10.1007/s00382-021-05793-x, in press
+119\. Xu Peiqiang, **Lin Wang\***, and Jie Ming, 2022: Central Asian precipitation extremes affected by an intraseasonal planetary wave pattern, *Journal of Climate*, doi:10.1075/JCLI-D-21-0657.1, in press
+
+118\. Huangfu Jingliang, Yulian Tang, **Lin Wang\***, Wen Chen, Ronghui Huang, Tianjiao Ma, 2022: Joint influence of the QBO and prolonged ENSO effects on tropical cyclone occurrence frequency over the western North Pacific, *Climate Dynamics*, in press
+
+117\.	Jiang Wenping\*, Hainan Gong, Ping Huang, **Lin Wang**, Gang Huang, and Lisuo Hu, 2022: Biases and improvements of the ENSO- East Asian winter monsoon teleconnection in CMIP5 and CMIP6 models, *Climate Dynamics*, in press
+
+116\.	Cen Sixian, Wen Chen, Shangfeng Chen, **Lin Wang**, Yuyun Liu, and Jingliang Huangfu, 2022: Weakened influence of the ENSO on the zonal shift of the South Asian High after the early 1980s, *International Journal of Climatology*, in press
+
+115\. Hu Peng, Wen Chen*, Shangfeng Chen, **Lin Wang**, Yuyun Liu, 2022: The weakening relationship between ENSO and the South China Sea summer monsoon onset in recent decades. *Advances in Atmospheric Sciences*, doi:10.1007/s00376-021-1208-6, in press
+
+114\.	Hu Peng, Wen Chen*, Shangfeng Chen, Zhibo Li, **Lin Wang**, and Ruping Huang, 2022: Close linkage of the South China Sea summer monsoon onset and extreme rainfall in May over Southeast Asia: role of the synoptic-scale systems, *Journal of Climate*, doi:10.1175/JCLI-D-21-0740.1, in press
+
+113\. Zhang Jiankai, Wenshou Tian\*, John A. Pyle, N. Luke Abraham, Martyn P. Chipperfield, James Keeble, Qinghua Yang, Longjiang Mu, Hong-Li Ren, and **Lin Wang**, 2022: Significant Responses of Arctic Sea Ice to Stratospheric Ozone Depletion, *Science Bulletin*, in press
+
+**2022:**
+
+112\. Dong Zizhen, and **Lin Wang\***, 2022: Quasi-biweekly oscillation over the western North Pacific in boreal winter and its influence on the central North American air temperature, *Journal of Climate*, **35**(6), 1901-1913, doi:10.1175/JCLI-D-21-0531.1
+
+111\. Shen Xiaocen, **Lin Wang\***, Scott Osprey, Steven C. Hardiman, Adam A. Scaife, and Ji Ma, 2022: The Life cycle and variability of Antarctic weak polar vortex events, *Journal of Climate*, **35**(6), 2075-2092, doi:10.1075/JCLI-D-21-0500.1
+
+110\. Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2022: The leading mode and factors for coherent variations among the sub-systems of tropical Asian summer monsoon onset, *Journal of Climate*, **35**(5), 1597-1612, doi:10.1175/JCLI-D-21-0101.1
 
 **2021:**
+
+109\. **Wang Lin\***, Chuang Zheng, and Yuyun Liu, 2021: Understanding the East Asian winter monsoon in 2018 from the intraseasonal perspective, *Climate Dynamics*, **57**, 2053-2062, doi:10.1007/s00382-021-05793-x
+
+108\. **Wang Lin\***, Peiqiang Xu, and Jasti S. Chowdary, 2021: Teleconnection along the Asian jet stream and its association with the Asian summer monsoon. *Indian Summer Monsoon Variability: El Niño-Teleconnections and Beyond*. Edited by Jasti S. Chowdary, Anant Parekh, and C. Gnanaseelan, 287-298, doi:10.1016/B978-0-12-822402-1.00009-0
+
+107\.	**Wang Lin\***, Haishan Chen, Jasti S. Chowdary, Kyung-Ja Ha, Yoshiyuki Kajikawa, and Gill Martin, 2021: Editorial: The Asian monsoon, *Frontiers in Earth Science*, **9**, 748811, doi:10.3389/feart.2021.748811
 
 106\. Dong Zizhen, **Lin Wang\***, Peiqiang Xu, Sittichai Pimonsree, Atsamon Limsakul, and Patama Singhruck, 2021: Interdecadal variation of the wintertime precipitation in Southeast Asia and its possible causes, *Journal of Climate*, **34**(9), 3503-3521, doi:10.1175/JCLI-D-20-0480.1
 
@@ -46,8 +68,8 @@ date: 2020-06-21 18:52:29
 97\. Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2021: Impact of the March Arctic Oscillation on the South China Sea Summer Monsoon Onset, *International Journal of Climatology*, **41**(S1), E3239-E3248, doi:10.1002/joc.6920
 
 96\. Liu Lin, Wen Chen, Jianping Guo, Renguang Wu, **Lin Wang**, Shanshan Wang, Yanfeng Huo, Weichen Tao, 2021: Large-scale pattern of the wintertime diurnal temperature range variations over North America during 1979-2018, *Atmospheric Research*, **257**, 105614, doi:10.1016/j.atmosres.2021.105614
-95\. 蔡兆男\*, 成里京\*, 李婷婷, 郑循华, **王林**, 韩圣慧, 王凯, 屈侠, 江飞, 张永雨, 朱建华, 龙上敏, 孙扬, 贾炳浩, 袁文平, 张天一, 张晴, 谢瑾博, 朱家文, 刘志强, 吴琳, 杨东旭, 魏科, 吴林, 张稳, 刘毅, 曹军骥: 碳中和目标下的若干地球系统科学和技术问题分析, 中国科学院院刊, **36**(5), 602-613, doi:10.16418/j.issn.1000-3045.20210402002. Cai Zhaonan\*, Lijing Cheng\*, Tingting Li, Xunhua Zheng, **Lin Wang**, Shenghui Han, Kai Wang, Xia Qu, Fei Jiang, Yongyu Zhang, Jianhua Zhu, Shangmin Long, Yang Sun, Binghao Jia, Wenping Yuan, Tianyi Zhang, Qing Zhang, Jinbo Xie, Jiawen Zhu, Zhiqiang Liu, Lin Wu, Dongxu Yang, Ke Wei, Lin Wu, Wen Zhang, Yi Liu, and Junji Cao: Key scientific and technical issues in earth system science towards achieving carbon neutrality in China, *Bulletin of Chinese Academy of Sciences*, **36**(5), 602-613, doi:10.16418/j.issn.1000-3045.20210402002
 
+95\. 蔡兆男\*, 成里京\*, 李婷婷, 郑循华, **王林**, 韩圣慧, 王凯, 屈侠, 江飞, 张永雨, 朱建华, 龙上敏, 孙扬, 贾炳浩, 袁文平, 张天一, 张晴, 谢瑾博, 朱家文, 刘志强, 吴琳, 杨东旭, 魏科, 吴林, 张稳, 刘毅, 曹军骥: 碳中和目标下的若干地球系统科学和技术问题分析, 中国科学院院刊, **36**(5), 602-613, doi:10.16418/j.issn.1000-3045.20210402002. Cai Zhaonan\*, Lijing Cheng\*, Tingting Li, Xunhua Zheng, **Lin Wang**, Shenghui Han, Kai Wang, Xia Qu, Fei Jiang, Yongyu Zhang, Jianhua Zhu, Shangmin Long, Yang Sun, Binghao Jia, Wenping Yuan, Tianyi Zhang, Qing Zhang, Jinbo Xie, Jiawen Zhu, Zhiqiang Liu, Lin Wu, Dongxu Yang, Ke Wei, Lin Wu, Wen Zhang, Yi Liu, and Junji Cao: Key scientific and technical issues in earth system science towards achieving carbon neutrality in China, *Bulletin of Chinese Academy of Sciences*, **36**(5), 602-613, doi:10.16418/j.issn.1000-3045.20210402002
 
 **2020:**
 
@@ -161,7 +183,7 @@ date: 2020-06-21 18:52:29
 
 **2016:**
 
-43\.  **Wang Lin\***, and Ming Lu, 2016: The East Asian winter monsoon. *The Global Monsoon System: Research and Forecast, 3rd ed.*, C.-P. Chang, H.-C. Kuo, N.-C. Lau, R. H. Johnson, B. Wang, and M. Wheeler, Eds., World Scientific, 51-61, doi:10.1142/9789813200913_0005.
+43\.  **Wang Lin\***, and Mong-Ming Lu, 2016: The East Asian winter monsoon. *The Global Monsoon System: Research and Forecast, 3rd ed.*, Edited by C.-P. Chang, H.-C. Kuo, N.-C. Lau, R. H. Johnson, B. Wang, and M. Wheeler, Eds., World Scientific, 51-61, doi:10.1142/9789813200913_0005.
 
 42\.  **Wang Lin\***, and Wei Gu, 2016: The Eastern China flood of June 2015 and its causes. *Science Bulletin*, **61**(2), 178-184, doi:10.1007/s11434-015-0967-9.
 
