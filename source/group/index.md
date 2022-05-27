@@ -36,7 +36,7 @@ date: 2020-07-10 18:09:14
 Ph.D. (2016.09-2022.06, master and doctoral courses), Advisors: Prof. Lin Wang, Thesis title *'Intraseasonal Variability, Mechanisms, and Impacts of the Stratospheric Polar Vortex in Northern and Southern Hemispheres'*. Immediate position after graduation: Postdoctoral Researcher in IAP, CAS
 
 **Yushu Wu**
-MS (2018.09-2022.06, master course), Advisors: Prof. Quanliang Chen & Prof. Lin Wang, Thesis title *'Potential Predictability and Skill Assessment of East Asian   Winter Monsoon in C3S Multimodel Prediction System'*. Immediate position after graduation: Engineering in Wulanchabu Meteorological Bureau
+MS (2018.09-2022.06, master course), Advisors: Prof. Quanliang Chen & Prof. Lin Wang, Thesis title *'Potential Predictability and Skill Assessment of East Asian   Winter Monsoon in C3S Multimodel Prediction System'*. Immediate position after graduation: Engineer in Wulanchabu Meteorological Bureau
 
 **Hongyin Xiao**
 MS (2018.09-2022.06, master course), Advisors: Prof. Quanliang Chen, Assoc. Prof. Hainan Gong & Prof. Lin Wang, Thesis title *'The Influence of Internal Climate Variability on the Winter Temperature Trend in Eurasia'*.
@@ -69,7 +69,7 @@ MS (2014.09-2016.06, master course), Advisors: Prof. Lin Wang & Prof. Wen Chen, 
 Ph.D. (2010.09-2015.06, master and doctoral courses), Advisors: Prof. Wen Chen & Prof. Lin Wang, Thesis title *'Impact of ENSO and Arctic Oscillation on the interannual variability of the East Asian winter monsoon in CMIP5 models'*. Immediate position after graduation: Postdoctoral Researcher in IAP, CAS
 
 **Wei Wei**
-MS (2012.09-2015.06, master course), Advisors: Prof. Quanliang Chen & Prof. Lin Wang, Thesis title *'Interannual variations of early and late winter temperatures in China and the mechanisms underlying their linkage'*. Immediate position after graduation: Assistant Engineering in Chengdu Meteorological Bureau
+MS (2012.09-2015.06, master course), Advisors: Prof. Quanliang Chen & Prof. Lin Wang, Thesis title *'Interannual variations of early and late winter temperatures in China and the mechanisms underlying their linkage'*. Immediate position after graduation: Assistant Engineer in Chengdu Meteorological Bureau
 
 [**Yuyun Liu**](https://www.researchgate.net/profile/Yuyun_Liu)
 Ph.D. (2009.09-2013.06, doctoral course), Advisors: Prof. Wen Chen & Prof. Lin Wang, Thesis title *'Temporal variability and spatial structures of the Eurasian teleconnection patterns and their mechanism'*. Immediate position after graduation: Assistant Professor in IAP, CAS
