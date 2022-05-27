@@ -35,10 +35,10 @@ date: 2020-07-10 18:09:14
 [**Xiaocen Shen**](https://www.researchgate.net/profile/Xiaocen_Shen)
 Ph.D. (2016.09-2022.06, master and doctoral courses), Advisors: Prof. Lin Wang, Thesis title *'Intraseasonal Variability, Mechanisms, and Impacts of the Stratospheric Polar Vortex in Northern and Southern Hemispheres'*. Immediate position after graduation: Postdoctoral Researcher in IAP, CAS
 
-**Yushu Wu**, Master student (2018-)
+**Yushu Wu**
 MS (2018.09-2022.06, master course), Advisors: Prof. Quanliang Chen & Prof. Lin Wang, Thesis title *'Potential Predictability and Skill Assessment of East Asian   Winter Monsoon in C3S Multimodel Prediction System'*. Immediate position after graduation: Engineering in Wulanchabu Meteorological Bureau
 
-**Hongyin Xiao**, Master student (2018-)
+**Hongyin Xiao**
 MS (2018.09-2022.06, master course), Advisors: Prof. Quanliang Chen, Assoc. Prof. Hainan Gong & Prof. Lin Wang, Thesis title *'The Influence of Internal Climate Variability on the Winter Temperature Trend in Eurasia'*.
 
 [**Zizhen Dong**](https://www.researchgate.net/profile/Dong_Zizhen)
