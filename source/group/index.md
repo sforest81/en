@@ -7,29 +7,38 @@ date: 2020-07-10 18:09:14
 
 [**Hainan Gong**](https://www.researchgate.net/profile/Hainan_Gong), Associate Professor
 
+[**Peiqiang Xu**](https://px212.github.io/px212/), Associate Professor
+
 [**Yuyun Liu**](https://www.researchgate.net/profile/Yuyun_Liu), Assistant Professor
 
-[**Peiqiang Xu**](https://px212.github.io/px212/), Postdoctoral Researcher
-
 [**Weina Guan**](https://www.researchgate.net/profile/Weina-Guan), Postdoctoral Researcher
+
+[**Wenqi Zhang**](https://www.researchgate.net/profile/Wenqi-Zhang-10), Postdoctoral Researcher
 
 ## Students:
 **Tian Wan**, Ph.D. student (2019-)
 
-**Wenling Cui**, Master student (2020-)
+**Wenling Cui**, Ph.D. student (2020-)
 
-**Huanhuan Ran**, Master student (2020-)
+**Huanhuan Ran**, Ph.D. student (2020-)
 
 **Tianyuehan Zhou**, Ph.D. student (2020-)
 
-**Kangjie Ma**, Master student (2020-)
+**Kangjie Ma**, Ph.D. student (2020-)
 
 **Luyao Sun**, Master student (2021-)
 
-**Huiwen Xiao**, Master student (2021-)
+**Huiwen Xiao**, Ph.D. student (2021-)
 
 **Leiye Yuan**, Master student (2021-)
 
+**Yunchuan Chen**, Ph.D. student (2022-)
+
+**Hongjie Fang**, Ph.D. student (2022-)
+
+**Yilu Yan**, Ph.D. student (2022-)
+
+**Wenwen Yang**, Ph.D. student (2022-)
 
 ## Students supervised:
 [**Xiaocen Shen**](https://www.researchgate.net/profile/Xiaocen_Shen)
@@ -39,7 +48,7 @@ Ph.D. (2016.09-2022.06, master and doctoral courses), Advisors: Prof. Lin Wang, 
 MS (2018.09-2022.06, master course), Advisors: Prof. Quanliang Chen & Prof. Lin Wang, Thesis title *'Potential Predictability and Skill Assessment of East Asian   Winter Monsoon in C3S Multimodel Prediction System'*. Immediate position after graduation: Engineer in Wulanchabu Meteorological Bureau
 
 **Hongyin Xiao**
-MS (2018.09-2022.06, master course), Advisors: Prof. Quanliang Chen, Assoc. Prof. Hainan Gong & Prof. Lin Wang, Thesis title *'The Influence of Internal Climate Variability on the Winter Temperature Trend in Eurasia'*.
+MS (2018.09-2022.06, master course), Advisors: Prof. Quanliang Chen, Assoc. Prof. Hainan Gong & Prof. Lin Wang, Thesis title *'The Influence of Internal Climate Variability on the Winter Temperature Trend in Eurasia'*. Immediate position after graduation: Engineer in Yaan Meteorological Bureau
 
 [**Zizhen Dong**](https://www.researchgate.net/profile/Dong_Zizhen)
 Ph.D. (2016.09-2021.06, master and doctoral courses), Advisors: Prof. Lin Wang, Thesis title *'The variation of the wintertime quasi-biweekly oscillation over the northwestern Pacific and the associated air-sea interaction processes'*. Immediate position after graduation: Postdoctoral Researcher in Department of Atmospheric Sciences, Yunnan University
