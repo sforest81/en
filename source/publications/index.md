@@ -23,7 +23,7 @@
 
 \. Hu Peng, Wen Chen\*, Shangfeng Chen, **Lin Wang**, and Yuyun Liu, 2023: Impacts of Pacific Ocean SST on the interdecadal variations of tropical Asian summer monsoon onset: new eastward-propagating mechanisms. *Climate Dynamics*, https://doi.org/10.1007/s00382-023-06824-5
 
-\. Zhang Hui, Ming Luo\*, Tao Pei\*, Xiaoping Liu, **Lin Wang**, Wei Zhang, Lijie Lin, Erjia Ge, Zhen Liu, Weilin Liao, 2023: Unequal urban heat burdens impede climate justice and equity goals, *The Innovation*,
+\. Zhang Hui, Ming Luo\*, Tao Pei\*, Xiaoping Liu, **Lin Wang**, Wei Zhang, Lijie Lin, Erjia Ge, Zhen Liu, Weilin Liao, 2023: Unequal urban heat burdens impede climate justice and equity goals, *The Innovation*, https://doi.org/10.1016/j.xinn.2023.100488
 
 **2023:**
 145\. **王林\***, 王蕾, 张洋, 2023: 国家自然科学基金大气科学学科二级申请代码下设研究方向与关键词解读: D0504大气动力学, *大气科学*, **47**(1), 125-131, doi:10.3878/j.issn.1006-9895.2212.22304 **Wang Lin\***, Lei Wang, and Yang Zhang, 2023: Research directions and keywords under the secondary application codes of the Atmospheric Sciences Discipline of the National Natural Science Foundation of China: D0504 Atmospheric Dynamics. *Chinese Journal of Atmospheric Sciences*, **47**(1), 125-131, doi:10.3878/j.issn.1006-9895.2212.22304
