@@ -2,7 +2,19 @@
 title: News
 date: 2021-08-31 00:00:00
 ---
-
+- 2024.03：[ICDM Workshop 2024: Linking Weather and Climate Dynamics Across Scales](https://icdm2024.nju.edu.cn/) will be held in Nanjing this October. Abstract submissions are welcome.
+- 2024.01：Dr. Peiqiang Xu was appointed as an Associate Editor of the Quarterly Journal of the Royal Meteorological Society
+- 2024.01：Lin Wang received the 2023 Best Reviewer Award from Science China Earth Sciences
+- 2023.12：Tian Wan visits Prof. Seok-Woo Son's group at the Seoul National University for one year as an exchange student
+- 2023.10：Lin Wang received the Jeoujang Jaw Outstanding Science Award for Young and Middle-Aged Scientists
+- 2023.09：The Huang Symposium-Advances and Frontiers of the East Asian Monsoon System was held in Beijing
+- 2023.08：Dr. Peiqiang Xu got funding from the National Natural Science Foundation of China.
+- 2023.07：Lin Wang was elected as a member of the IAMAS International Commission on Dynamical Meteorology (ICDM).
+- 2023.04：Lin Wang was appointed as an Associate Editor of the International Journal of Climatology.
+- 2023.04：Lin Wang was included in Highly Cited Chinese Researcher in 2022 by Elsevier.
+- 2023.03：The kick-off meeting for two international collaboration projects with Norway and Russia was held in Shanghai.
+- 2023.02：Dr. Xiaocen Shen joined Prof. Ted Shepherd's group at the University of Reading as a postdoctoral researcher.
+- 2023.01：Dr. Xiaocen Shen received the Excellent PhD Thesis Award from IAP
 - 2022.11：Dr. Weina Guan got special funding for postdocs from the Chinese Academy of Sciences.
 - 2022.10: Dr. Peiqiang Xu was promoted to Associate Professor in IAP.
 - 2022.09: Lin Wang was appointed as a member of the Scientific Steering Group for WCRP Lighthouse Activity 'My Climate Risk'.
