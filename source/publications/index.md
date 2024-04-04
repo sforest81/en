@@ -19,20 +19,20 @@
 **In press:**
 \. Dong Zizhen, **Lin Wang\***, Ruowen Yang, and Jie Cao, 2024: Propagation and maintenance of the quasi-biweekly oscillation over the western North Pacific in boreal winter, *Journal of Climate*, https://doi.org/10.1175/JCLI-D-23-0387.1
 
-\. Perkins-Kirkpatrick Sarah\*, David Barriopedro, Roshan Ja, **Lin Wang**, Arpita Mondal, and Renata Libonati, 2024: Extreme Terrestrial heat in 2023, *Nature Reviews Earth & Environment*,
-
 \. Hu Peng, Wen Chen\*, Shangfeng Chen, **Lin Wang**, Suqin Zhang, and Yuyun Liu, 2024: Quantitative decomposition of the interdecadal change in the correlation coefficient between the El Niño-Southern Oscillation and South Asian Summer Monsoon, *Theoretical and Applied Climatology*, https://doi.org/10.1007/s00704-024-04851-8
 
 **2024:**
-165\. **王林\***, 徐霈强, 2024: 北半球夏季急流遥相关: 进展与展望, *大气科学*, **48**(1), 287-304, https://doi.org/10.3878/j.issn.1006-9895.2311.23322 **Wang Lin\***, and Peiqiang Xu, 2024: Waveguide teleconnections in the boreal summer: Progress and perspectives, *Chinese Journal of Atmospheric Sciences*, **48**(1), 287-304, https://doi.org/10.3878/j.issn.1006-9895.2311.23322
+166\. **王林\***, 徐霈强, 2024: 北半球夏季急流遥相关: 进展与展望, *大气科学*, **48**(1), 287-304, https://doi.org/10.3878/j.issn.1006-9895.2311.23322 **Wang Lin\***, and Peiqiang Xu, 2024: Waveguide teleconnections in the boreal summer: Progress and perspectives, *Chinese Journal of Atmospheric Sciences*, **48**(1), 287-304, https://doi.org/10.3878/j.issn.1006-9895.2311.23322
 
-164\. Xiao Huiwen, Peiqiang Xu\*, and **Lin Wang\***, 2024: The unprecedented 2023 North China heatwaves and their S2S predictability, *Geophysical Research Letters*, **51**(6), e2023GL107642, https://doi.org/10.1029/2023GL107642
+165\. Xiao Huiwen, Peiqiang Xu\*, and **Lin Wang\***, 2024: The unprecedented 2023 North China heatwaves and their S2S predictability, *Geophysical Research Letters*, **51**(6), e2023GL107642, https://doi.org/10.1029/2023GL107642
 
-163\. Zhou Shijie, Ping Huang\*, **Lin Wang\***, Kaiming Hu, Gang Huang, and Peng Hu, 2024: Robust changes in global subtropical circulation under greenhouse warming, *Nature Communications*, **15**(1), 96, https://doi.org/10.1038/s41467-023-44244-5
+164\. Zhou Shijie, Ping Huang\*, **Lin Wang\***, Kaiming Hu, Gang Huang, and Peng Hu, 2024: Robust changes in global subtropical circulation under greenhouse warming, *Nature Communications*, **15**(1), 96, https://doi.org/10.1038/s41467-023-44244-5
 
-162\. Gong Hainan, Kangjie Ma, Zhiyuan Hu\*, Zizhen Dong, Yuanyuan Ma, Wen Chen, Renguang Wu, and **Lin Wang\***, 2024: Attribution of the August 2022 extreme heatwave in southern China: Role of dynamical and thermodynamical processes, *Bulletin of the American Meteorological Society*, **105**(1), E193-E199, https://doi.org/10.1175/BAMS-D-23-0175.1
+163\. Gong Hainan, Kangjie Ma, Zhiyuan Hu\*, Zizhen Dong, Yuanyuan Ma, Wen Chen, Renguang Wu, and **Lin Wang\***, 2024: Attribution of the August 2022 extreme heatwave in southern China: Role of dynamical and thermodynamical processes, *Bulletin of the American Meteorological Society*, **105**(1), E193-E199, https://doi.org/10.1175/BAMS-D-23-0175.1
 
-161\. Lu Yixiong\*, Xin Xu, **Lin Wang**, Yiming Liu, Tongwen Wu, Weihua Jie, and Jian Sun, 2024: Machine learning emulation of subgrid-scale orographic gravity wave drag in a general circulation model with middle atmosphere extension, *Journal of Advances in Modeling Earth Systems*, **16**(3), e2023MS003611, https://doi.org/10.1029/2023MS003611
+162\. Lu Yixiong\*, Xin Xu, **Lin Wang**, Yiming Liu, Tongwen Wu, Weihua Jie, and Jian Sun, 2024: Machine learning emulation of subgrid-scale orographic gravity wave drag in a general circulation model with middle atmosphere extension, *Journal of Advances in Modeling Earth Systems*, **16**(3), e2023MS003611, https://doi.org/10.1029/2023MS003611
+
+161\. Perkins-Kirkpatrick Sarah\*, David Barriopedro, Roshan Ja, **Lin Wang**, Arpita Mondal, and Renata Libonati, 2024: Extreme Terrestrial heat in 2023, *Nature Reviews Earth & Environment*, https://doi.org/10.1038/s43017-024-00536-y
 
 160\. Zheng Fei\*, Shuai Hu, Jiehua Ma, **Lin Wang**, Kexin Li, Bo Wu, Qing Bao, Jingbei Peng, Chaofan Li, Haifeng Zong, Yao Yao, Baoqiang Tian, Hong Chen, Xianmei Lang, Fangxing Fan, Xiao Dong, Yanling Zhan, Tianjun Zhou, and Jiang Zhu, 2024: Will the globe encounter the warmest winter after the hottest summer in 2023? *Advances in Atmospheric Sciences*, **41**(4), 581-586, https://doi.org/10.1007/s00376-023-3330-0
 
