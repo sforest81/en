@@ -32,7 +32,7 @@
 
 162\. Lu Yixiong\*, Xin Xu, **Lin Wang**, Yiming Liu, Tongwen Wu, Weihua Jie, and Jian Sun, 2024: Machine learning emulation of subgrid-scale orographic gravity wave drag in a general circulation model with middle atmosphere extension, *Journal of Advances in Modeling Earth Systems*, **16**(3), e2023MS003611, https://doi.org/10.1029/2023MS003611
 
-161\. Perkins-Kirkpatrick Sarah\*, David Barriopedro, Roshan Ja, **Lin Wang**, Arpita Mondal, and Renata Libonati, 2024: Extreme Terrestrial heat in 2023, *Nature Reviews Earth & Environment*, https://doi.org/10.1038/s43017-024-00536-y
+161\. Perkins-Kirkpatrick Sarah\*, David Barriopedro, Roshan Ja, **Lin Wang**, Arpita Mondal, and Renata Libonati, 2024: Extreme Terrestrial heat in 2023, *Nature Reviews Earth & Environment*, **5**(4), 244-246, https://doi.org/10.1038/s43017-024-00536-y
 
 160\. Zheng Fei\*, Shuai Hu, Jiehua Ma, **Lin Wang**, Kexin Li, Bo Wu, Qing Bao, Jingbei Peng, Chaofan Li, Haifeng Zong, Yao Yao, Baoqiang Tian, Hong Chen, Xianmei Lang, Fangxing Fan, Xiao Dong, Yanling Zhan, Tianjun Zhou, and Jiang Zhu, 2024: Will the globe encounter the warmest winter after the hottest summer in 2023? *Advances in Atmospheric Sciences*, **41**(4), 581-586, https://doi.org/10.1007/s00376-023-3330-0
 
