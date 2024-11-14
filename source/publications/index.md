@@ -36,7 +36,7 @@
 174\. Gong Hainan, Kangjie Ma, **Lin Wang\***, 2024: Internal variability dominated the extreme cold wave over North America in December 2022, *Geophysical Research Letters*, **51**(18), e2024GL111429, https://doi.org/10.1029/2024GL111429
 
 173\. Ma Kangjie, Hainan Gong\*, and **Lin Wang\***, 2024: Attribution of the concurrent extreme heatwaves in Northern Europe and Northeast Asia in July 2018, *Atmospheric Research*, **307**, 107506, https://doi.org/10.1016/j.atmosres.2024.107506
-     161.	
+	
 172\. Dong Zizhen, **Lin Wang\***, Ruowen Yang, and Jie Cao, 2024: Propagation and maintenance of the quasi-biweekly oscillation over the western North Pacific in boreal winter, *Journal of Climate*, **37**(12), 3433-3453, https://doi.org/10.1175/JCLI-D-23-0387.1
 
 171\. Zhou Shijie, Ping Huang\*, **Lin Wang\***, Kaiming Hu, Gang Huang, and Peng Hu, 2024: Robust changes in global subtropical circulation under greenhouse warming, *Nature Communications*, **15**(1), 96, https://doi.org/10.1038/s41467-023-44244-5
