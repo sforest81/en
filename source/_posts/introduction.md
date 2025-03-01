@@ -1,6 +1,6 @@
 ---
 title: Lin Wang
-date: 2024-09-01 18:52:29
+date: 2025-03-01 18:52:29
 ---
 
 I got my Ph.D. in meteorology from the Graduate School of the Chinese Academy of Sciences in 2008. After that, I joined the Institute of Atmospheric Sciences, Chinese Academy of Sciences, where I am currently a professor, the head of the Center for Monsoon System Research, and the academic secretary of the institute. During this process, I made approximately three years of international academic visits to the USA, Japan, Italy, and other places.
@@ -18,6 +18,14 @@ I have published over 180 articles in refereed scientific journals, such as Scie
 ## News
 
 - **Positions are open for graduate students and postdocs. Contact Lin Wang for details.**
+- 2024.12: Lin Wang was appointed as the Co-Chair of the CLIVAR/GEWEX Asian-Australian Monsoon Working Group.
+- 2024.12：Lin Wang was appointed as the Exectutive Co-Chief Editor of [Journal of Meteorological Research](http://jmr.cmsjournal.net/)-[JMR](https://link.springer.com/journal/13351), the flagship journal of the Chinese Meteorological Society.
+- 2024.11：Lin Wang was appointed as the Chair of the Commission of Dynamical Meteorology, Chinese Meteorological Society.
+- 2024.10：[ICDM Workshop 2024: Linking Weather and Climate Dynamics Across Scales](https://icdm2024.nju.edu.cn/) was successfully held in Nanjing.
+- 2024.09：Miss. Luyao Sun got her M.S. degree and joined the Fujian Meteorological Bureau as a forecaster.
+- 2024.08：Dr. Wenqi Zhang got funding from the National Natural Science Foundation of China.
+- 2024.07：China-Norway Workshop on the Arctic Climate System was held in Bergen, Norway.
+- 2024.06：The session AS35 'Extratropical Large-scale Atmospheric Circulation Variability and Extreme Events Across Scales: Understanding, Modeling, and Prediction' was successfully held during the AOGS 2024 Annual Meeting in Pyeongchang, Korea.
 - 2024.03：[ICDM Workshop 2024: Linking Weather and Climate Dynamics Across Scales](https://icdm2024.nju.edu.cn/) will be held in Nanjing this October. Abstract submissions are welcome.
 - 2024.01：Dr. Peiqiang Xu was appointed as an Associate Editor of the Quarterly Journal of the Royal Meteorological Society
 - 2024.01：Lin Wang received the 2023 Best Reviewer Award from Science China Earth Sciences
