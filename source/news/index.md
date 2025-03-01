@@ -2,7 +2,7 @@
 title: News
 date: 2025-03-01 00:00:00
 ---
--- 2024.12: Lin Wang was appointed as the Co-Chair of the CLIVAR/GEWEX Asian-Australian Monsoon Working Group.
+- 2024.12: Lin Wang was appointed as the Co-Chair of the CLIVAR/GEWEX Asian-Australian Monsoon Working Group.
 - 2024.12：Lin Wang was appointed as the Exectutive Co-Chief Editor of [Journal of Meteorological Research](http://jmr.cmsjournal.net/)-[JMR](https://link.springer.com/journal/13351), the flagship journal of the Chinese Meteorological Society.
 - 2024.11：Lin Wang was appointed as the Chair of the Commission of Dynamical Meteorology, Chinese Meteorological Society.
 - 2024.10：[ICDM Workshop 2024: Linking Weather and Climate Dynamics Across Scales](https://icdm2024.nju.edu.cn/) was successfully held in Nanjing.
