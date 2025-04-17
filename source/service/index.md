@@ -18,7 +18,7 @@ date: 2020-06-21 18:53:02
 
 ## Community Services:
 - Chair, Dynamic Meteorology Commission, Chinese Meteorological Society (2024-2029)
-- Member, IAMAS-CNC (2024-)
+- Member, Chinese National Committee of IAMAS (2024-)
 - Co-Chair, CLIVAR/GEWEX Asian-Australian Monsoon Working Group (2025-, Member since 2021)
 - Member, International Commission on Dynamical Meteorology (2023-2027)
 - Member, Scientific Steering Group, WCRP Lighthouse Activity- My Climate Risk (2022-2026)
