@@ -26,8 +26,6 @@ date: 2020-07-10 18:09:14
 
 **Kangjie Ma**, Ph.D. student (2020-)
 
-**Luyao Sun**, Master student (2021-)
-
 **Huiwen Xiao**, Ph.D. student (2021-)
 
 **Leiye Yuan**, Master student (2021-)
@@ -40,7 +38,22 @@ date: 2020-07-10 18:09:14
 
 **Wenwen Yang**, Ph.D. student (2022-)
 
+**Yunfei Cao**, Master student (2023-)
+
+**Linjun Han**, Master student (2023-)
+
+**Wentao Xia**, Ph.D. student (2023-)
+
+**Jiasheng Qi**, Ph.D. student (2024-)
+
+**Jingyu Yan**, Ph.D. student (2024-)
+
+**Puxian Zheng**, Master student (2024-)
+
 ## Students supervised:
+**Luyao Sun** 
+MS (2021.09-2024.08, master course), Advisors: Prof. Lin Wang, Thesis title *'Impacts of different wintertime tropical Pacific Sea Surface Temperature states on the interannual variability of East Asian summer precipitation'*. Immediate position after graduation: Engineer in Fuzhou Meteorological Bureau
+
 [**Xiaocen Shen**](https://www.researchgate.net/profile/Xiaocen_Shen)
 Ph.D. (2016.09-2022.06, master and doctoral courses), Advisors: Prof. Lin Wang, Thesis title *'Intraseasonal Variability, Mechanisms, and Impacts of the Stratospheric Polar Vortex in Northern and Southern Hemispheres'*. Immediate position after graduation: Postdoctoral Researcher in IAP, CAS
 
