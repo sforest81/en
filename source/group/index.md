@@ -22,7 +22,7 @@ date: 2020-07-10 18:09:14
 
 **Huiwen Xiao**, Ph.D. student (2021-)
 
-**Leiye Yuan**, Master student (2021-)
+**Leiye Yuan**, Ph.D. student (2021-)
 
 **Yunchuan Chen**, Ph.D. student (2022-)
 
