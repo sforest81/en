@@ -31,9 +31,3 @@ I have published over 200 articles in refereed scientific journals, such as Scie
 - 2025.03: [Our new paper on the Arctic-Eurasian climate linkage](https://www.science.org/doi/10.1126/sciadv.adq9461) was published in Science Advances.
 - 2025.02: Prof. Thomas Spengler visited the group.
 - 2025.01: Lin Wang was appointed as the Co-Chair of the CLIVAR/GEWEX Asian-Australian Monsoon Working Group.
-- 2024.12: Lin Wang was appointed as the Executive Co-Chief Editor of [Journal of Meteorological Research](http://jmr.cmsjournal.net/)-[JMR](https://link.springer.com/journal/13351), the flagship journal of the Chinese Meteorological Society.
-- 2024.11: Lin Wang was appointed as the Chair of the Commission of Dynamical Meteorology, Chinese Meteorological Society.
-- 2024.10: [ICDM Workshop 2024: Linking Weather and Climate Dynamics Across Scales](https://icdm2024.nju.edu.cn/) was successfully held in Nanjing.
-- 2024.09: Miss. Luyao Sun got her M.S. degree and joined the Fujian Meteorological Bureau as a forecaster.
-- 2024.08: Dr. Wenqi Zhang got funding from the National Natural Science Foundation of China.
-- 2024.07: China-Norway Workshop on the Arctic Climate System was held in Bergen, Norway.
