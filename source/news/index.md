@@ -2,26 +2,36 @@
 title: News
 date: 2025-03-01 00:00:00
 ---
+- 2025.12：Lin Wang was elected a Fellow of the Royal Meteorological Society.
+- 2025.12：Dr. Kangjie Ma received the IAP Excellent PhD Thesis Award.
+- 2025.11：Welcome to submit to the [special issue on the 2025 Asian summer monsoon](https://mp.weixin.qq.com/s/dHFrdARrqexWaYjbG0a4ww).
+- 2025.08：Dr. Hainan Gong got the prestigious Young Scientist Project (Category B) from the National Science Foundation of China.
+- 2025.07：Dr. Weina Guan completed her postdoctoral research and joined Central South University of Forestry and Technology as an Assistant Professor.
+- 2025.07：Tian Wan got her Ph.D. and joined the Hunan Branch of China Meteorological Administration Training Centre as an engineer.
+- 2025.07：Kangjie Ma got his Ph.D. and joined Lanzhou University as a postdoc researcher.
+- 2025.07：Huanhuan Ran got her Ph.D. and joined the China Meteorological Administration Training Centre as an engineer.
+- 2025.06：Kangjie Ma was awarded the Outstanding Graduate of Beijing Municipality.
+- 2025.04: Lin Wang was included in the Highly Cited Chinese Researcher in 2024 by Elsevier.
 - 2025.03: [Our new paper on the Arctic-Eurasian climate linkage](https://www.science.org/doi/10.1126/sciadv.adq9461) was published in Science Advances.
 - 2025.02: Prof. Thomas Spengler visited the group.
 - 2025.01: Lin Wang was appointed as the Co-Chair of the CLIVAR/GEWEX Asian-Australian Monsoon Working Group.
-- 2024.12：Lin Wang was appointed as the Exectutive Co-Chief Editor of [Journal of Meteorological Research](http://jmr.cmsjournal.net/)-[JMR](https://link.springer.com/journal/13351), the flagship journal of the Chinese Meteorological Society.
+- 2024.12：Lin Wang was appointed as the Executive Co-Chief Editor of [Journal of Meteorological Research](http://jmr.cmsjournal.net/)-[JMR](https://link.springer.com/journal/13351), the flagship journal of the Chinese Meteorological Society.
 - 2024.11：Lin Wang was appointed as the Chair of the Commission of Dynamical Meteorology, Chinese Meteorological Society.
 - 2024.10：[ICDM Workshop 2024: Linking Weather and Climate Dynamics Across Scales](https://icdm2024.nju.edu.cn/) was successfully held in Nanjing.
 - 2024.09：Miss. Luyao Sun got her M.S. degree and joined the Fujian Meteorological Bureau as a forecaster.
 - 2024.08：Dr. Wenqi Zhang got funding from the National Natural Science Foundation of China.
 - 2024.07：China-Norway Workshop on the Arctic Climate System was held in Bergen, Norway.
-- 2024.06：The session AS35 'Extratropical Large-scale Atmospheric Circulation Variability and Extreme Events Across Scales: Understanding, Modeling, and Prediction' was successfully held during the AOGS 2024 Annual Meeting in Pyeongchang, Korea.
+- 2024.06：The session AS35 'Extratropical Large-scale Atmospheric Circulation Variability and Extreme Events Across Scales: Understanding, Modeling, and Prediction' was successfully held during the AOGS 2024 Annual Meeting in PyeongChang, Korea.
 - 2024.03：[ICDM Workshop 2024: Linking Weather and Climate Dynamics Across Scales](https://icdm2024.nju.edu.cn/) will be held in Nanjing this October. Abstract submissions are welcome.
 - 2024.01：Dr. Peiqiang Xu was appointed as an Associate Editor of the Quarterly Journal of the Royal Meteorological Society
 - 2024.01：Lin Wang received the 2023 Best Reviewer Award from Science China Earth Sciences
-- 2023.12：Tian Wan visits Prof. Seok-Woo Son's group at the Seoul National University for one year as an exchange student
+- 2023.12：Tian Wan visits Prof. Seok-Woo Son's group at Seoul National University for one year as an exchange student
 - 2023.10：Lin Wang received the Jeoujang Jaw Outstanding Science Award for Young and Middle-Aged Scientists
 - 2023.09：The Huang Symposium-Advances and Frontiers of the East Asian Monsoon System was held in Beijing
 - 2023.08：Dr. Peiqiang Xu got funding from the National Natural Science Foundation of China.
 - 2023.07：Lin Wang was elected as a member of the IAMAS International Commission on Dynamical Meteorology (ICDM).
 - 2023.04：Lin Wang was appointed as an Associate Editor of the International Journal of Climatology.
-- 2023.04：Lin Wang was included in Highly Cited Chinese Researcher in 2022 by Elsevier.
+- 2023.04：Lin Wang was included in the Highly Cited Chinese Researcher in 2022 by Elsevier.
 - 2023.03：The kick-off meeting for two international collaboration projects with Norway and Russia was held in Shanghai.
 - 2023.02：Dr. Xiaocen Shen joined Prof. Ted Shepherd's group at the University of Reading as a postdoctoral researcher.
 - 2023.01：Dr. Xiaocen Shen received the Excellent PhD Thesis Award from IAP
@@ -37,8 +47,8 @@ date: 2025-03-01 00:00:00
 - 2022.06：Dr. Weina Guan got funding from the China Postdoctoral Science Foundation.
 - 2022.05: Xiaocen Shen finished her Ph.D. Thesis Defense.
 - 2022.05: Lin Wang was appointed as an Associate Editor of Frontiers in Earth Science.
-- 2022.05: Lin Wang was included in the top 2% of the most-cited scientists in 2021 by Standford University.
-- 2022.04: Lin Wang was included in Highly Cited Chinese Researcher in 2021 by Elsevier.
+- 2022.05: Lin Wang was included in the top 2% of the most-cited scientists in 2021 by Stanford University.
+- 2022.04: Lin Wang was included in the Highly Cited Chinese Researcher in 2021 by Elsevier.
 - 2022.02: Tianyuehan Zhou serves as a volunteer for the 2022 Beijing Winter Olympics.
 - 2021.10: Lin Wang was appointed as a member of the CLIVAR/GEWEX Asian-Australian Monsoon Working Group.
 - 2021.09: Dr. Weina Guan joined our group as a postdoctoral researcher.
@@ -46,9 +56,9 @@ date: 2025-03-01 00:00:00
 - 2021.08: Zizhen Dong got his Ph.D. and joined the Department of Atmospheric Sciences, Yunnan University as a postdoctoral researcher.
 - 2021.08: Chuang Zheng got her Ph.D. and joined State Grid Hunan Electric Power Company Limited as a faculty.
 - 2021.08: Hongdou Fan got her M.S. and joined the Max Planck Institute for Meteorology as a Ph.D. student.
-- 2021.05: Lin Wang was included in the top 2% of the most-cited scientists by Standford University.
-- 2021.04: Lin Wang was included in Highly Cited Chinese Researcher in 2020 by Elsevier.
-- 2020.10: Lin Wang was appointed as a member of WCRP Lighthouse Activity Science Plan Development Team
+- 2021.05: Lin Wang was included in the top 2% of the most-cited scientists by Stanford University.
+- 2021.04: Lin Wang was included in the Highly Cited Chinese Researcher in 2020 by Elsevier.
+- 2020.10: Lin Wang was appointed as a member of Wthe CRP Lighthouse Activity Science Plan Development Team
 - 2020.09: New graduate students Wenling Cui, Kangjie Ma, Huanhuan Ran, and Tianyuehan Zhou joined our group.
 - 2020.02: Dr. Hainan Gong was promoted to Associate Professor in IAP.
 - 2020.01: Dr. Peiqiang Xu received the Excellent PhD Thesis Award from IAP.
