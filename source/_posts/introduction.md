@@ -1,6 +1,6 @@
 ---
 title: Lin Wang
-date: 2025-12-30 18:52:29
+date: 2026-01-01 18:18:18
 ---
 
 I got my Ph.D. in meteorology from the Graduate School of the Chinese Academy of Sciences in 2008. After that, I joined the Institute of Atmospheric Sciences, Chinese Academy of Sciences, where I am currently a professor. During this process, I made approximately three years of international academic visits to the USA, Russia, Japan, Italy, and other places.
