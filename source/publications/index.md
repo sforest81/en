@@ -13,7 +13,7 @@
 \. Wang Fan, Yves Balkanski, Jiangfeng Wei, Zhicong Yin, Haishan Chen, **Lin Wang**, Yihui Ding, Gregory R. Carmichael, Michael B. McElroy, Meng Gao\*, 2025: West Asian dust’s dominant impact facilitates early warning of South Asian monsoon precipitation,
 
 **In Press:**
-\. Zhang Wenqi, and **Lin Wang\***, 2026: Vertical structure and energy transfer of stationary planetary waves in different prescribed atmospheric stratification, *Advances in Atmospheric Sciences*, **43**(1), 233-246, https://doi.org/10.1007/s00376-025-4511-9
+\. **Wang Lin\***, Zizhen Dong, Tim Cowan, Peng Hu, Shiromani Jayawardena, Maheswar Pradhan, Hui Su, Thea Turkington, Wei Gu, Seok-Woo Son, Donaldi Sukma Permana, Rajashree Naha, Joseph Basconcillo, Kieran Hunt, Hiroshi G. Takahashi, Raghavendra Ashrit, and Vladimir A. Semenov, 2026: The 2024 Asian-Australian Monsoon Year: Widespread Extremes with Notable Subseasonal Variability and Socioeconomic Impacts, *Journal of Meteorological Research*,
 
 \. Ran Huanhuan, **Lin Wang\***, Thomas Spengler, Gang Chen, Ping Huang, and Kaiming Hu, 2025: Long-term trends of Northern Hemisphere marine cold air outbreaks during boreal winter: Influence of sea ice retreat and atmospheric circulation, *Journal of Climate*, https://doi.org/10.1175/JCLI-D-24-0658.1
 
@@ -26,6 +26,11 @@
 \. Dunstone J. Nick\*, Chaofan Li, Doug M. Smith, Steven C. Hardiman, Leon Hermanson, Zu Luo, Adam A. Scaife, Rhidian Thomas, **Lin Wang**, Tim Woollings, 2025: Predictable atmospheric circulation driver of Eurasian winter temperatures, *npj Climate and Atmospheric Science*,
 
 \. Cowan Tim\*, Rajashree Naha, Hanh Nguyen, Hanna Heidemann, Sugata Narsey, Matthew C. Wheeler, Corey Robinson, Chris Lucas, Andrew G. Marshall, and **Lin Wang**, 2025: Why was the official Australian monsoon onset unusually late in 2024/25, despite La Niña?, *Advances in Atmospheric Sciences*, 
+
+\. Song Yaoming\*, Haishan Chen, **Lin Wang**, Anning Huang, and Wei Gu, 2026: The memories of soil moisture and soil temperature anomalies in subsequent soil moisture and soil temperature in China, *Journal of Geophysical Research: Atmospheres*, e2025JD044117, https://doi.org/10.1029/2025JD044117
+
+**2026:**
+196\. Zhang Wenqi, and **Lin Wang\***, 2026: Vertical structure and energy transfer of stationary planetary waves in different prescribed atmospheric stratification, *Advances in Atmospheric Sciences*, **43**(1), 233-246, https://doi.org/10.1007/s00376-025-4511-9
 
 **2025:**
 195\. Gong Hainan, **Lin Wang\***, James A. Screen\*, Wen Chen\*, Judah Cohen, and Renguang Wu, 2025: Teleconnection from Arctic warming suppresses long-term warming in central Eurasia, *Science Advances*, eadq9461, **11**(12), https://doi.org/10.1126/sciadv.adq9461
