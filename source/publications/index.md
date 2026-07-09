@@ -22,7 +22,7 @@
 \. Li Haijie, Ya Wang\*, Kai Yang, Gang Huang\*, Xiangao Xia\*, Ziming Chen, Weichen Tao, Chenglin Lu, Lin Chen, Miao Zhang, Kaiming Hu, Hainan Gong, Disong Fu, and **Lin Wang**, 2026: Probabilistic reconstruction of global sea surface temperature using generative diffusion models,
 
 **In Press:**
-\. Zhang Wenqi, Mei Chong, Huiwen Xiao, Shengkai Wang, Qiang Zhang, Xi Chen\*, and **Lin Wang\***, 2026: Predictable April 2025 extreme dust storm in southern China, *Science Bulletin*,
+\. Zhang Wenqi, Mei Chong, Huiwen Xiao, Shengkai Wang, Qiang Zhang, Xi Chen\*, and **Lin Wang\***, 2026: Predictable April 2025 extreme dust storm in southern China, *Science Bulletin*, https://doi.org/10.1016/j.scib.2026.07.020
 
 \. Zhang Wenqi, Mei Chong, Huiwen Xiao, Shengkai Wang, Qiang Zhang, Xi Chen\*, and **Lin Wang\***, 2026: Unprecedented extreme dust storm triggered by stratosphere-troposphere interactions, *Geophysical Research Letters*, e2026GL123443, https://doi.org/10.1029/2026GL123443
 
